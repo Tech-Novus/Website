@@ -17,7 +17,7 @@ https://github.com/Tech-Novus/Website/archive/master.zip
 ```
 
 ## Contact
-Incase of any problems with this source code, Please contact Maitreya Patni @ ```maitreyapatni25@gmail.com```
+Incase of any problems with this source code, Please contact Maitreya Patni @ ```maitreya@teamnovus.tech```
 
 ## Roadmap
 <b>Push The Code.</b> </br>
@@ -27,7 +27,7 @@ Open up.
 ## Contributions
 
 Novus is **always open to  suggestions & contributions.** </br>
-But, Instead of the zoomer way. Go boomer and mail us @ ```maitreyapatni25@gmail.com```
+But, Instead of the zoomer way. Go boomer and mail us @ ```maitreya@teamnovus.tech```
 
 ## Acknowledgements
 
